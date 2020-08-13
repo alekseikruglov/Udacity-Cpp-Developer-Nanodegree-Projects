@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<parameters>
+    	<frameThreshold> 70 </frameThreshold>				<!--Threshold to make binary image-->
+   	<erodeStructuringElementSize> 7 </erodeStructuringElementSize>	<!--size of Structuring element to erode binary blobs (must be not even)-->
+	<dilateCyclesNumber>3 </dilateCyclesNumber>			<!--dilate cycles-->
+	<validObjArea> 3000 </validObjArea>				<!--min possible detected object rectangle area-->
+	<validObjWidth> 25 </validObjWidth>				<!--min possible detected object rectangle width-->
+	<validObjHeight> 30 </validObjHeight>				<!--min possible detected object rectangle height-->
+	<aspectRatio> 0.75 </aspectRatio>				<!--rectangle sides aspect ratio-->
+	<countingLinePositionX1> 1 </countingLinePositionX1>		<!--P1(x) of counting line-->
+	<countingLinePositionX2> 1300 </countingLinePositionX2>		<!--P1(y) of counting line-->
+	<countingLinePositionY1> 550 </countingLinePositionY1>		<!--P2(x) of counting line-->
+	<countingLinePositionY2> 550 </countingLinePositionY2>		<!--P2(y) of counting line-->
+	<notUpdatedMaxNum> 5 </notUpdatedMaxNum>			<!--if detected object is not updated so many times - it will be deleted-->
+	<printObjectInfo> 0 </printObjectInfo>				<!--print (1) or not (0) the info about current detected object-->
+	<showObjectNumbers> 1 </showObjectNumbers>			<!--show(1) or not(0) the numbers of detected objects-->
+	<showObjectTracking> 0 </showObjectTracking>			<!--show(1) or not(0) the tracking of detected objects from previous frames-->
+</parameters>
