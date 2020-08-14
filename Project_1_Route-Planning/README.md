@@ -1,6 +1,10 @@
 # Route Planning Project
 
-This repo contains the code for the Route Planning project.
+Udacity C++ Nanodegree Program
+
+## Overview
+
+This repo contains the code for the Udacity C++ Route Planning project.
 
 <img src="map.png" width="600" height="450" />
 
@@ -8,7 +12,7 @@ This repo contains the code for the Route Planning project.
 
 * The data that is used for this project comes in the form of an OSM XML file provided by [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Main_Page)
 * An A* algorithm is used to implement a path planning algorithm
-  * It searches for the shortest way on the map from the start point to the end point which can be defined by user
+  * The algorithm searches for the shortest way on the map from the start point to the end point which can be defined by user
 
 ## Dependencies for Running Locally
 * cmake >= 3.11.3
