@@ -58,6 +58,6 @@ This repository contains projects completed during [Udacity C++ Nanodegree Progr
 </p>
 
 
-## Licens
+## License
 
 Udacity C++ nanodegree results are released under the [MIT License](LICENSE).
