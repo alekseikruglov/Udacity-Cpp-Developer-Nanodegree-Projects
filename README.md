@@ -47,7 +47,7 @@ This repository contains projects completed during [Udacity C++ Nanodegree Progr
   <img src="./images/P4.gif" title = "Concurrent Traffic Simulation Project" alt = "Concurrent Traffic Simulation Project" width = "600" />
 </p>
 
-### 5. [Capstone Project: Vehicle Counter Project](https://github.com/alekseikruglov/Udacity-Cpp-Developer-Nanodegree-Projects/tree/master/Project_5_Cpastone-Project_Car-Counter)
+### 5. [Capstone Project: Vehicle Counter Project](https://github.com/alekseikruglov/Udacity-Cpp-Developer-Nanodegree-Projects/tree/master/Project_5_Capstone-Project_Car-Counter)
 
 * **Summary:** Use OpenCV image processing to detect moving vehicles on the video, track and count them.
 
